@@ -4,5 +4,6 @@
         "psr-4": {
             "yongshi\\test\\": "test/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
