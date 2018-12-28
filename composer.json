@@ -1,0 +1,8 @@
+{
+    "name": "yuyongshi/hello-world",
+    "autoload": {
+        "psr-4": {
+            "yongshi\\test\\": "test/"
+        }
+    }
+}
